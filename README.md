@@ -1,2 +1,3 @@
 # mkdocsbuild
-Docker container for mkdocs builds.
+
+Docker container for mkdocs builds. Also has the aws command line tool.
